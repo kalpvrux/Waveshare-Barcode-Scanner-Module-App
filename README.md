@@ -1,5 +1,3 @@
-# Waveshare-Barcode-Scanner-Module-App
-
 # Waveshare Barcode Scanner Module App
 
 A powerful and user-friendly Windows application for configuring and managing Waveshare Barcode Scanner Modules. This tool eliminates the need for manual configuration, providing an intuitive interface to streamline the setup process directly from your Windows system.
